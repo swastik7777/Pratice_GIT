@@ -1,0 +1,8 @@
+Hello dosto below is git commands
+git init
+git status
+git add
+git commit -m 
+git config --global user.name ''
+git config --global user.email ''
+git branch -b ''
